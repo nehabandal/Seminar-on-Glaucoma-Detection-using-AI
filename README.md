@@ -1,1 +1,1 @@
-# Seminar-on-Glaucoma-Detection-using-AI
+# Glaucoma-study and detection in Artificial Intelligence
